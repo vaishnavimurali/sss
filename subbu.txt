@@ -1,9 +1,2 @@
 subbu
 bjbjh
-<<<<<<< Updated upstream
-dsfsd
-guhol
-difkgjtkr
-subbu
-=======
->>>>>>> Stashed changes
